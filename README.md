@@ -4,7 +4,7 @@ Some of the stuff I'm working on:
 
 - 🤖 [heypi](https://github.com/hunvreus/heypi): Multiplayer AI agents for your team.
 - 🧠 [skill-issue](https://github.com/hunvreus/skill-issue): A toolkit of agent skills I use every day to write, test, document, and deploy software.
-- 📜 [ai-anifesto](https://ronanberder.com/ai-manifesto/): AI-Augmented Software Development Manifesto.
+- 📜 [ai-manifesto](https://ronanberder.com/ai-manifesto/): AI-Augmented Software Development Manifesto.
 - /→ [/dev/push](https://github.com/hunvreus/devpush): An open source alternative to Vercel and Render, allowing you to deploy your apps straight from GitHub.
 - 🎨 [Basecoat](https://github.com/hunvreus/basecoat): A components library built with Tailwind CSS that works with any web stack.
 - 📄 [Pages CMS](https://github.com/pages-cms/pages-cms): The simplest CMS you'll ever need. Manage content and media right in your GitHub repository.
